@@ -1,4 +1,6 @@
-![Demo](Roma-mesh/meta-metadigital.gif)
+<p align="center">
+  <img width="400" height="250" src="[https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif](https://github.com/Roma-mesh/Roma-mesh/blob/main/meta-metadigital.gif)"  alt="animated" />
+</p>
 
 <!--
 **Roma-mesh/Roma-mesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
